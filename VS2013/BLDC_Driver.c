@@ -1,6 +1,6 @@
 /**
 ******************************************************************************
-* @file    BLDC_Driver.h
+* @file    BLDC_Driver.c
 * @author  Chenxx
 * @version V1.0
 * @date    2016-02-22
