@@ -1,6 +1,6 @@
 /**
 ******************************************************************************
-* @file    BLDC_Driver.c
+* @file    BLDC_Driver.cpp
 * @author  Chenxx
 * @version V1.0
 * @date    2016-02-22
